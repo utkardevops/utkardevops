@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sachin Utkar
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning tools required for Devops
+- 👋 Hi, I’m Sachin Utkar.
+- 👀 I’m working as Cloud Engineer.
+- 🌱 I’m fascinated by Cloud computing and learning new tools to become a SRE Engineer.
 - 💞️ I’m looking to collaborate on new cloud solutions
 - 📫 You can reach me via email - sachinutkar@gmail.com
 
