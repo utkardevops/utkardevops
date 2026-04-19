@@ -24,7 +24,7 @@ AWS Certified Cloud Solutions Architect with deep expertise in cloud cost optimi
 
 - **Cloud Platforms**: AWS (Primary focus), Azure, Google Cloud
 - **DevOps & IaC**: Docker, Kubernetes, Terraform, CloudFormation
-- **Languages**: Python, Go, Bash
+- **Languages**: Python, Bash
 - **Monitoring & Analytics**: Cost Management Tools, Dashboarding solutions
 - **CI/CD**: GitHub Actions, GitLab CI, Jenkins
 
@@ -41,12 +41,6 @@ I'm actively looking to collaborate on **open-source projects** focused on:
 - Real-time cloud spending analytics
 
 If you're interested in building something impactful in the FinOPS/GreenOPS space, **let's connect!**
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=utkardevops&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkardevops&layout=compact&theme=dark)
 
 ## 🤝 Let's Connect
 
